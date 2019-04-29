@@ -11,3 +11,5 @@ run npm install
 run npm start
 
 ###
+
+- It uses local storage to save data
